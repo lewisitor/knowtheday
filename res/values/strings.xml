@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Know the Day</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="about">Know The Day is a product of DJ Lewis Corporation Limited.
+	
+        This app is of version 1.0.If You do find this app insultive you can email me through the email djlewis_3@yahoo.com</string>
+	<string name="main_title">Check Day Validator</string>
+	<string name="check_label">Check Day</string>
+	<string name="about_label">About</string>
+	<string name="exit_label">Exit</string>
+	<string name="day">Day</string>
+	<string name="month">Month</string>
+	<string name="year">Year</string>
+	<string name="validate">Validate</string>
+	<string name="check_menu">Input the Day Month and Year</string>
+	<string name="validate_string">The Inputed Day appears to be on A:</string>
+	<string name="home">Home</string>
+	<string name="back">Back</string>
+	<string name="copy">© Copyright 2014 DJ LEWIS Corp.</string>
+	</resources>
